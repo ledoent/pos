@@ -1,0 +1,1 @@
+from . import test_pos_barcode_rule_priced_with_change_rate
